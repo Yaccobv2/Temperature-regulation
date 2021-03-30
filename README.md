@@ -6,6 +6,9 @@ In this project I used NUCLEO F746ZG,temperature sensor BMP280, small resistor w
 
 Contorl system was created with CMSIS DSP Software Library. I used two PID's for current contorl going through resistor and speed contorl of the fan.
 
+Project picture:  
+<img src="https://user-images.githubusercontent.com/39679208/112987773-5c399700-9163-11eb-9eed-c5470a601dc4.png"  width="80%" height="80%">
+
 Electrical schemes:  
 <img src="https://user-images.githubusercontent.com/39679208/112981420-74a5b380-915b-11eb-8e4f-1686e54a5195.png"  width="80%" height="80%">
 
