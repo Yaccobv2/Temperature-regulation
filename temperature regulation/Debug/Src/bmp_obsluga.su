@@ -1,0 +1,2 @@
+bmp_obsluga.c:3:8:spi_reg_read1	88	static
+bmp_obsluga.c:25:8:spi_reg_write1	80	static

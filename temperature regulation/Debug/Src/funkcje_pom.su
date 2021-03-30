@@ -1,0 +1,6 @@
+funkcje_pom.c:5:8:spi_reg_read	88	static
+funkcje_pom.c:27:8:spi_reg_write	80	static
+funkcje_pom.c:56:6:LCD	48	static
+funkcje_pom.c:87:7:read	16	static
+funkcje_pom.c:109:6:pid1	48	static
+funkcje_pom.c:135:6:pid2	48	static
