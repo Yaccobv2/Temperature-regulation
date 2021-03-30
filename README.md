@@ -23,7 +23,8 @@ Used pin list:
 
 
 Results:  
-<img src="https://user-images.githubusercontent.com/39679208/112985570-a0776800-9160-11eb-8114-48dd311de791.png"  width="80%" height="80%">
-!
+<img src="https://user-images.githubusercontent.com/39679208/112987484-1250b100-9163-11eb-9a6e-f5bc151e252d.png"  width="80%" height="80%">
+
+
 
 
