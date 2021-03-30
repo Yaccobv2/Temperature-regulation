@@ -4,7 +4,7 @@ Temperature regulation project using NUCLEO F746ZG.
 In this project I used NUCLEO F746ZG,temperature sensor BMP280, small resistor with high power rating, computer fan 
 , LCD display with i2c converter and two transistors IRL540NS.
 
-Contorl system was created with CMSIS DSP Software Library. I used two PID's for current contorl going through resistor and speed contorl of the fan.
+Control system was created with CMSIS DSP Software Library. I used two PID's for current control going through resistor and speed control of the fan.
 
 Project picture:  
 <img src="https://user-images.githubusercontent.com/39679208/112987773-5c399700-9163-11eb-9eed-c5470a601dc4.png"  width="80%" height="80%">
